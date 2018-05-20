@@ -54,7 +54,7 @@ aggregate(x=nb_df[c("BadCredit","HasStableJob","OwnsHouse","BigLoan","HasLargeBa
 
 ```
 
-Recalculate your matrix of probabilities that you computed in previous step to incorporate additive smoothing.
+Recalculate the matrix of probabilities that we computed in previous step to incorporate additive smoothing.
 
 ```
 #Calculate again the propabilities
