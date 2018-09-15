@@ -1,6 +1,6 @@
 # Bayes-Naives-Classifier
 ## Description
-We have created a very simple data set consisting of ten observations of seven input features. This is a simplified rendition of the German Credit data set from the UCI repository that we saw in our slides for the Support Vector Machine lab. The output variable is the Decision column. Here, this takes the value 1 when we reject the loan and 0 when we accept. We are going to construct a very simple Naïve Bayes model for this problem but we are going to train this manually.
+We have created a very simple data set consisting of ten observations of seven input features. This is a simplified rendition of the German Credit data set from the UCI repository for the Support Vector Machine lab. The output variable is the Decision column. Here, this takes the value 1 when we reject the loan and 0 when we accept. We are going to construct a very simple Naïve Bayes model for this problem but we are going to train this manually.
 
 ## Implementation
 
